@@ -1,5 +1,13 @@
 ## RangeSlider
 
+![range.png](http://sandbox.runjs.cn/uploads/rs/234/bxxwrmn8/range.png)
+
+
+
+
+
+## 开始
+
 - [demo地址](https://htmlpreview.github.io/?https://github.com/zc95/RangeSlider/blob/master/index.html)
 - [github地址](https://github.com/zc95/RangeSlider)
 - [简易版DEMO](http://jsrun.net/IciKp/show)
@@ -11,9 +19,7 @@
 
 ## 导入jQuery, CSS和JS
 
-### jQuery
-
-### [http://jsrun.net/CciKp.css](http://jsrun.net/CciKp.css)
+### [https://github.com/zc95/RangeSlider/blob/master/myCSS.css](https://github.com/zc95/RangeSlider/blob/master/myCSS.css)
 
   ```css
   p {
@@ -61,7 +67,7 @@
 
   ​
 
-### [http://jsrun.net/CciKp.js](http://jsrun.net/CciKp.js)
+### [https://github.com/zc95/RangeSlider/blob/master/myJS.js](https://github.com/zc95/RangeSlider/blob/master/myJS.js)
 
   ``` javascript
 $.fn.RangeSlider = function(cfg){
