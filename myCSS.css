@@ -1,0 +1,40 @@
+p {
+  font-family: "微软雅黑";
+  letter-spacing: -1px;
+  text-shadow: -2px -1px 1px #fff, 1px 2px 2px rgba(0, 0, 0, 0.2);
+  font-weight: 300;
+  font-size: 36px;
+  margin: 10px;
+}
+
+input[type=range] {
+	-webkit-appearance: none;
+	width: 300px;
+	border-radius: 10px; /*这个属性设置使填充进度条时的图形为圆角*/
+	background: -webkit-linear-gradient(#2EB969, #2EB969) no-repeat;/*进度条的颜色*/
+	background-size: 0% 100%;
+}
+
+input[type=range]:focus {
+	outline: none;
+}
+input[type=range]:hover {
+	cursor:pointer;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+	height: 6px;
+	border-radius: 10px; /*将轨道设为圆角的*/
+  box-shadow: 0.2px 0.2px 1px 0.8px #cec8c8 inset; /*添加底部阴影*/
+}
+
+input[type=range]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  margin-top:-6px;
+  border-radius: 50%;
+  background-color:white;
+  box-shadow: 0px 0px 3px 1px #DEDEDE;
+}

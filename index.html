@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang=zh>
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="myCSS.css">
+</head>
+<body>
+  <p>
+  进度条&emsp;<span id="num">0</span>%
+</p>
+
+<input  type="range" value="0">
+  <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+  <script src="myJS.js"></script>
+<script>
+$(function() {
+  $('input').RangeSlider({
+    step: 0.1,
+    callback: change
+  });
+});
+var change = function($input) {
+  /*内容可自行定义*/
+  $("#num").text($('input').val());
+}
+</script>
+</body>
+</html>
