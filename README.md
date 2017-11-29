@@ -1,4 +1,4 @@
-## 开始
+## RangeSlider
 
 - [demo地址](https://htmlpreview.github.io/?https://github.com/zc95/RangeSlider/blob/master/index.html)
 - [github地址](https://github.com/zc95/RangeSlider)
