@@ -10,7 +10,7 @@
 
 - [demo地址](https://htmlpreview.github.io/?https://github.com/zc95/RangeSlider/blob/master/index.html)
 - [github地址](https://github.com/zc95/RangeSlider)
-- [简易版DEMO](http://jsrun.net/IciKp/show)
+- [简易版demo地址](https://htmlpreview.github.io/?https://github.com/zc95/RangeSlider/blob/master/simple.html)
 
 
 
