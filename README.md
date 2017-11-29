@@ -1,11 +1,3 @@
-## Range
-
-![range.png](http://sandbox.runjs.cn/uploads/rs/234/bxxwrmn8/range.png)
-
-
-
-
-
 ## 开始
 
 - [demo地址](https://htmlpreview.github.io/?https://github.com/zc95/RangeSlider/blob/master/index.html)
