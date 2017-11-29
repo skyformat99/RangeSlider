@@ -6,7 +6,7 @@
 
 
 
-## 开始
+## 链接
 
 - [demo地址](https://htmlpreview.github.io/?https://github.com/zc95/RangeSlider/blob/master/index.html)
 - [github地址](https://github.com/zc95/RangeSlider)
@@ -17,7 +17,7 @@
 
 
 
-## 导入jQuery, CSS和JS
+## 导入CSS和JS（github地址里有）
 
 ### [https://github.com/zc95/RangeSlider/blob/master/myCSS.css](https://github.com/zc95/RangeSlider/blob/master/myCSS.css)
 
